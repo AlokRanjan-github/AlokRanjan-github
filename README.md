@@ -17,18 +17,44 @@
 
 ## 🔥 Tech Stack
 
-<table align="center">
-<tr>
-<td><b>💻 Languages</b><br/>Java • C++ • JavaScript • SQL</td>
-<td><b>🌐 Frontend</b><br/>React • Next.js • Tailwind • ShadCN UI</td>
-</tr>
-<tr>
-<td><b>🛠 Backend</b><br/>Node.js • Express • MongoDB • MySQL • REST APIs</td>
-<td><b>⚙️ Tools</b><br/>Git • GitHub • Postman • Vercel • Render</td>
-</tr>
-</table>
+<p align="center">
 
----
+<!-- Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+
+<br/>
+
+<!-- Frontend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
+
+<br/>
+
+<!-- Backend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+
+<br/>
+
+<!-- Tools -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40"/>
+
+</p>
+
+<p align="center">
+<b>Also worked with:</b> JWT • MySQL Workbench
+</p>
 
 ## 🚀 Projects
 
@@ -44,9 +70,9 @@
 
 ## 📜 Certifications
 
-- 🟦 Microsoft Azure AI Fundamentals (AI-900)  
-- 🟦 Microsoft Azure Data Fundamentals (DP-900)  
-- 🟧 Oracle Cloud Infrastructure Foundations 2025  
+- 🟦 [Microsoft Azure AI Fundamentals (AI-900)](https://www.credly.com/badges/cb7718de-1e9b-46e9-ad34-746c399eb138/public_url)  
+- 🟧 [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://drive.google.com/file/d/1NF-aCbnUH9Hub2w6bkmrbLyo-tYi_-I0/view?usp=sharing)  
+- 🟦 [Microsoft Azure Data Fundamentals (DP-900)](https://www.credly.com/badges/4bddc468-0639-4e1d-9b3b-c3b1689caf53/public_url)  
 
 ---
 
