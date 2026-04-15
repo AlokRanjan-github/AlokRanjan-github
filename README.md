@@ -67,5 +67,6 @@
 
 ## ⚡ Fun Fact
 
-> 🏋️ I treat debugging like gym reps — the more it hurts, the stronger I get 💪
+> 🏋️ I treat debugging like gym reps — the more it hurts, the stronger I get 💪  
+>
 > 🧠 Code, break, fix, repeat… basically my version of cardio 😄  
