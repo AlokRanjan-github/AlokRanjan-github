@@ -90,7 +90,7 @@
 
 ---
 
-## 📊 Most Used Languages
+## 📊 Most Used Languages & Streak-stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlokRanjan-github&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
