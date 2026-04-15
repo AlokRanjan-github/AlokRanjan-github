@@ -17,31 +17,16 @@
 
 ## 🔥 Tech Stack
 
-### 💻 Languages
-- `Java`
-- `C++`
-- `JavaScript`
-- `SQL`
-
-### 🌐 Frontend
-- `React`
-- `Next.js`
-- `Tailwind CSS`
-- `ShadCN UI`
-
-### 🛠 Backend
-- `Node.js`
-- `Express.js`
-- `MongoDB`
-- `MySQL`
-- `REST APIs`
-
-### ⚙️ Tools & Platforms
-- `Git`
-- `GitHub`
-- `Postman`
-- `Vercel`
-- `Render`
+<table align="center">
+<tr>
+<td><b>💻 Languages</b><br/>Java • C++ • JavaScript • SQL</td>
+<td><b>🌐 Frontend</b><br/>React • Next.js • Tailwind • ShadCN UI</td>
+</tr>
+<tr>
+<td><b>🛠 Backend</b><br/>Node.js • Express • MongoDB • MySQL • REST APIs</td>
+<td><b>⚙️ Tools</b><br/>Git • GitHub • Postman • Vercel • Render</td>
+</tr>
+</table>
 
 ---
 
@@ -53,15 +38,7 @@
 - 🎟 **[Event Management System](https://github.com/AlokRanjan-github/event-booking-system-mern)**  
 - 🛒 **[E-Commerce (SnapMart)](https://github.com/AlokRanjan-github/SnapMart-Ecommerce)**  
 
-### ⚡ Key Features
-- JWT Authentication  
-- Role-Based Access Control  
-- REST APIs  
-- Socket.io (Real-Time Communication)  
-- Redux Toolkit  
-- Admin Dashboards  
-- Search & Filtering  
-- Scalable Backend Architecture  
+**⚡ Features:** JWT Auth • Role-Based Access • REST APIs • Socket.io • Redux Toolkit • Admin Dashboards • Search & Filtering • Scalable Backend  
 
 ---
 
@@ -90,5 +67,5 @@
 
 ## ⚡ Fun Fact
 
-> 🏋️ I treat debugging like gym reps — the more it hurts, the stronger I get 💪  
-> 🧠 Code, break, fix, repeat… basically my version of cardio 😄  
+> 🏋️ Debugging = my gym 💪  
+> The more bugs I lift, the stronger my code gets 😄  
