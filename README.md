@@ -18,42 +18,49 @@
 ## 🔥 Tech Stack
 
 <p align="center">
-
+  
 <!-- Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-
-<br/>
-
-<!-- Frontend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
-
-<br/>
-
-<!-- Backend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-
-<br/>
-
-<!-- Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40"/>
+<img src="https://img.shields.io/badge/Java-b04000?style=for-the-badge&logo=java&logoColor=ffcc80"/>
+<img src="https://img.shields.io/badge/C-1c4a6e?style=for-the-badge&logo=c&logoColor=7ec8f5"/>
+<img src="https://img.shields.io/badge/C++-1c3a6e?style=for-the-badge&logo=cplusplus&logoColor=80c0ff"/>
+<img src="https://img.shields.io/badge/CSS3-1a3d6b?style=for-the-badge&logo=css3&logoColor=5baff7"/>
+<img src="https://img.shields.io/badge/HTML5-6b2800?style=for-the-badge&logo=html5&logoColor=ff9d6e"/>
+<img src="https://img.shields.io/badge/JavaScript-5a4a00?style=for-the-badge&logo=javascript&logoColor=ffe066"/>
+<img src="https://img.shields.io/badge/Python-1a3d00?style=for-the-badge&logo=python&logoColor=b0d060"/>
+<img src="https://img.shields.io/badge/TypeScript-1a3d6b?style=for-the-badge&logo=typescript&logoColor=7ec8ff"/>
 
 </p>
 
 <p align="center">
-<b>Also worked with:</b> JWT • MySQL Workbench
+
+<!-- Deployment -->
+<img src="https://img.shields.io/badge/Vercel-1a1a1a?style=for-the-badge&logo=vercel&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Render-003040?style=for-the-badge&logo=render&logoColor=40e0c0"/>
+<img src="https://img.shields.io/badge/Bootstrap-2d0060?style=for-the-badge&logo=bootstrap&logoColor=c080ff"/>
+<img src="https://img.shields.io/badge/Express.js-1a1a1a?style=for-the-badge&logo=express&logoColor=cccccc"/>
+
+</p>
+
+<p align="center">
+
+<!-- Tools & Frameworks -->
+<img src="https://img.shields.io/badge/JWT-1a1a3a?style=for-the-badge&logo=jsonwebtokens&logoColor=9090ff"/>
+<img src="https://img.shields.io/badge/NPM-5a0000?style=for-the-badge&logo=npm&logoColor=ff8080"/>
+<img src="https://img.shields.io/badge/Node.js-1a3d00?style=for-the-badge&logo=nodedotjs&logoColor=80c060"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/React-00303d?style=for-the-badge&logo=react&logoColor=60d8f0"/>
+<img src="https://img.shields.io/badge/TailwindCSS-003d4d?style=for-the-badge&logo=tailwindcss&logoColor=40d0f0"/>
+<img src="https://img.shields.io/badge/MongoDB-003d00?style=for-the-badge&logo=mongodb&logoColor=60c060"/>
+<img src="https://img.shields.io/badge/MySQL-00264d?style=for-the-badge&logo=mysql&logoColor=60a0ff"/>
+<img src="https://img.shields.io/badge/Socket.io-1a1a2e?style=for-the-badge&logo=socketdotio&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-1a0a3d?style=for-the-badge&logo=redux&logoColor=c09fff"/>
+<img src="https://img.shields.io/badge/Material_UI-003050?style=for-the-badge&logo=mui&logoColor=60c0ff"/>
+<img src="https://img.shields.io/badge/Shadcn/UI-0a0a0a?style=for-the-badge&logo=shadcnui&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Postman-5a1a00?style=for-the-badge&logo=postman&logoColor=ff8040"/>
+<img src="https://img.shields.io/badge/Git-5a1500?style=for-the-badge&logo=git&logoColor=ff7040"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-00264d?style=for-the-badge&logo=microsoftazure&logoColor=60a0ff"/>
+<img src="https://img.shields.io/badge/Oracle_Cloud-5a2000?style=for-the-badge&logo=oracle&logoColor=ff8040"/>
+
 </p>
 
 ## 🚀 Projects
