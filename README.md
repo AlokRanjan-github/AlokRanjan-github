@@ -29,9 +29,9 @@
 <img src="https://img.shields.io/badge/Python-1a3d00?style=for-the-badge&logo=python&logoColor=b0d060"/>
 <img src="https://img.shields.io/badge/TypeScript-1a3d6b?style=for-the-badge&logo=typescript&logoColor=7ec8ff"/>
 
-</p>
+<!-- </p>
 
-<p align="center">
+<p align="center"> -->
 
 <!-- Deployment -->
 <img src="https://img.shields.io/badge/Vercel-1a1a1a?style=for-the-badge&logo=vercel&logoColor=ffffff"/>
@@ -39,9 +39,9 @@
 <img src="https://img.shields.io/badge/Bootstrap-2d0060?style=for-the-badge&logo=bootstrap&logoColor=c080ff"/>
 <img src="https://img.shields.io/badge/Express.js-1a1a1a?style=for-the-badge&logo=express&logoColor=cccccc"/>
 
-</p>
+<!-- </p>
 
-<p align="center">
+<p align="center"> -->
 
 <!-- Tools & Frameworks -->
 <img src="https://img.shields.io/badge/JWT-1a1a3a?style=for-the-badge&logo=jsonwebtokens&logoColor=9090ff"/>
