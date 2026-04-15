@@ -93,7 +93,11 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlokRanjan-github&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlokRanjan-github&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=AlokRanjan-github&theme=tokyonight&hide_border=true" height="150"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=AlokRanjan-github&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
